@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contrats",
+  "info": {
+    "singularName": "contrat",
+    "pluralName": "contrats",
+    "displayName": "contrat",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "NumeroDeContrat": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
